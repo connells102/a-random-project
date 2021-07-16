@@ -1,0 +1,24 @@
+body {
+  background-color: #410333;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #ffe6f9;
+  font-weight: bold;
+}
+
+.light {
+  color: #ffe6f9;
+}
+
+.random-card {
+  width: 75%;
+  height: 150px;
+  margin-top: 50px;
+  border-radius: 5px;
+  background-color: #ffe6f9;
+  color: #410333;
+  padding: 15px;
+}
